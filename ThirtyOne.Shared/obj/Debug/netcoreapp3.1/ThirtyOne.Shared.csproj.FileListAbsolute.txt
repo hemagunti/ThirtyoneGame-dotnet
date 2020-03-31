@@ -1,0 +1,8 @@
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.deps.json
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.dll
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.pdb
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.csprojAssemblyReference.cache
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.AssemblyInfoInputs.cache
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.AssemblyInfo.cs
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.dll
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.pdb

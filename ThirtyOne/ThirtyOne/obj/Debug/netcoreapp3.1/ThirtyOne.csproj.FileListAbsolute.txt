@@ -1,0 +1,15 @@
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.deps.json
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.runtimeconfig.json
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.runtimeconfig.dev.json
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.dll
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.pdb
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/obj/Debug/netcoreapp3.1/ThirtyOne.csprojAssemblyReference.cache
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/obj/Debug/netcoreapp3.1/ThirtyOne.AssemblyInfoInputs.cache
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/obj/Debug/netcoreapp3.1/ThirtyOne.AssemblyInfo.cs
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/obj/Debug/netcoreapp3.1/ThirtyOne.dll
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/obj/Debug/netcoreapp3.1/ThirtyOne.pdb
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.dll
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.pdb
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/obj/Debug/netcoreapp3.1/ThirtyOne.csproj.CopyComplete
+/Users/hemagunti/Projects/dotnet-hyf/ThirtyOne/ThirtyOne/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
